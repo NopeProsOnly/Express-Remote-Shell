@@ -9,7 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "discord-webhook-node": "^1.1.8",
-    "express": "^4.21.0"
+    "express": "^4.21.1"
   },
   "devDependencies": {},
   "description": "Remote into a remote shell",
