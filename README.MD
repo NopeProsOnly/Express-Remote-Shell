@@ -8,7 +8,7 @@
 - Firewall access
 
 ## Setup:
-1. Download the project using [this link](github.com//Kaden-Skinner/Express-Remote-Shell/archive/refs/heads/main.zip).
+1. Clone or Download the project
 
 2. Right-Click the file and `Extract All`.
 - `(Optional) - You can move the contents of the "server" folder to the startup folder to make this start automatically on startup. You can get to the startup folder with WIN+R and running "shell:startup". This will open your startup folder.`
