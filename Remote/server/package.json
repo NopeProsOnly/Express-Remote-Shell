@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/Kaden-Skinner/Express-Remote-Shell/issues"
   },
-  "homepage": "https://github.com/Kaden-Skinner/Express-Remote-Shell#readme"
+  "homepage": "https://github.com/Kaden-Skinner/Express-Remote-Shell#readme",
+  "overrides": {
+    "qs": "~6.14.1",
+    "body-parser": "~1.20.6",
+    "path-to-regexp": "~0.1.13"
+  }
 }
